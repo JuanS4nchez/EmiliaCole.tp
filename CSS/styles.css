@@ -1,0 +1,42 @@
+.menu {
+    background-image: url(../Img/home.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.frase {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 7%;
+    font-size: 40px;
+    font-weight: 100;
+    background-color: aliceblue;
+    opacity: 0.4;
+}
+
+.emico {
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 7%;
+    font-size: 40px;
+    color: rgb(70, 70, 70);
+    font-style: normal;
+    letter-spacing: 7px;
+}
+
+.titulos {
+    font-family: 'Raleway', sans-serif;
+    margin-top: 5%;
+    font-size: 20px;
+    font-weight: 100;
+    background-color: aliceblue;
+    opacity: 0.4;
+    line-height: 2.0;
+}
+
+.timo {
+    text-decoration: none;
+    color:darkgray;
+    font-weight: bold;
+    font-size: larger;
+}
